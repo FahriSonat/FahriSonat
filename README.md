@@ -20,9 +20,6 @@ Sivas Cumhuriyet Üniversitesi Bilgisayar Mühendisliği öğrencisi olarak mode
 
 - 🔭 **Şu sıralar ne yapıyorum?** **EduPulse** adlı cross-platform mobil eğitim platformunu Clean Architecture prensipleriyle geliştiriyorum. Ayrıca İstanbul Ticaret Odası (İTO) **SoftİTO Yazılım-Bilişim Akademisi** bünyesinde seçildiğim yüz yüze mobil yazılım geliştirme kohortunda aktif olarak projeler üretiyorum.
 - 🌱 **Neleri keşfediyorum?** Linux ekosistemi, sistem yönetimi (Microsoft Intune & Entra ID) ve yapay zeka modellerinin web/mobil uygulamalara entegrasyonu.
-- 🎓 **Akademik Geçmiş:** Lisans bitirme tezimde ekonomik ifadelerin duygu analizi (Sentiment Analysis) üzerine **T-BERT** modelinin veri işleme mekaniklerini inceledim. Ayrıca **YOLO** nesne algılama algoritmaları ile statik el hareketlerinden işaret dili tespiti üzerine akademik çalışmalar yürüttüm.
-- 🚁 **Diğer Alanlar:** Sivil Havacılık Genel Müdürlüğü (SHGM) kayıtlı resmi **İHA-1 Sportif/Amatör** drone pilotuyum.
-
 ---
 
 ### 🛠️ Teknoloji Yığını (Tech Stack)
@@ -41,7 +38,7 @@ Geliştirme süreçlerimde modern, hızlı ve tip güvenli (type-safe) araçlar�
 * **Backend & Servisler:** Firebase (Cloud Firestore, Firebase Storage, Firebase Cloud Messaging - FCM)
 
 #### **Yapay Zeka & Veri Bilimi (Akademik & Deneysel)**
-* **Modeller & Araçlar:** T-BERT (Doğal Dil İşleme / NLP), YOLO (Bilgisayarlı Görü / Görüntü Sınıflandırma), Hugging Face Inference API
+* **Modeller & Araçlar:** T-BERT (Doğal Dil İşleme / NLP), YOLO (Bilgisayarlı Görü / Görüntü Sınıflandırma)
 
 #### **Geliştirme Ortamı & Sistemler**
 * **İşletim Sistemleri:** macOS, Windows, Linux (Geliştirme ortamları)
